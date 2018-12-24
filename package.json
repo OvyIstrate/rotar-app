@@ -1,0 +1,22 @@
+{
+  "name": "rotar-app",
+  "version": "1.0.0",
+  "description": "Presentation website for Alex Rotaru's business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OvyIstrate/rotar-app.git"
+  },
+  "author": "Ovi Istrate, Andrei Istrate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OvyIstrate/rotar-app/issues"
+  },
+  "homepage": "https://github.com/OvyIstrate/rotar-app#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
